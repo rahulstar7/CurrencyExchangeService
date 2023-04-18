@@ -15,6 +15,10 @@
 	<description>Currency Exchange  Service </description>
 	<properties>
 		<java.version>17</java.version>
+
+//this is done by QA anil
+
+
 //this changes by DEV Sunil
 		<spring-cloud.version>2021.0.6</spring-cloud.version>
 	</properties>
